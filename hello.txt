@@ -3,6 +3,7 @@ Hello stguigu! hello git!33333333333333333
 Hello stguigu! hello git!555555555555
 Hello stguigu! hello git!
 此处修改验证  合并冲突情况===
+我在这里也要进行修改====
 Hello stguigu! hello git!
 Hello stguigu! hello git!
 Hello stguigu! hello git!
